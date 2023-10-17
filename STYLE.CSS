@@ -1,0 +1,106 @@
+#dhak1{
+    float:right;
+    height:500px;
+    width: 300px;
+    border: ridge red 10px;
+    border-radius: 20px;
+}
+#dhak2{
+    float:left;
+    height:500px;
+    width: 300px;
+    border: ridge red 10px;
+    border-radius: 20px;
+}
+
+body{
+    background-size:cover;
+    background-position-x: center;
+    background-position-y:center ;
+    background-image:url("kash.png");
+}
+#BODY_2{
+background-image: url("istockphoto-515742408-170667a.jpg");
+}
+h1{
+    font-size:70px;
+}
+#god{
+    height:360px;
+    width:300px;
+    
+}
+#quote2{
+    height: 600px;
+    width: 700px;
+    border: ridge red 10px;
+    border-radius: 20px;  
+}
+.durga_maa_1{
+    height: 400px;
+    width: 400px;
+    border: ridge red 10px;
+    border-radius: 20px;
+}
+#nach{
+    height: 400px;
+    width: 400px;
+    border: ridge red 10px;
+    border-radius: 20px; 
+}
+#sindur_khela_ritual{
+    height: 400px;
+    width: 400px;
+    border: ridge red 10px;
+    border-radius: 20px;
+}
+#aaroti2{
+    height: 400px;
+    width: 400px;
+    border: ridge red 10px;
+    border-radius: 20px; 
+}
+#nobomi_aroti{
+    height: 400px;
+    width: 400px;  
+    border: ridge red 10px;
+    border-radius: 20px;
+}
+ #dugga_maa{
+    background-position-x: center;
+    background-position-y:center ;
+    height:600px;
+    width: 500px;
+    border: ridge red 10px;
+    border-radius: 20px;
+ }
+ #dancer1{
+    float:left;
+    height:600px;
+    width: 400px;
+    border: ridge red 10px;
+    border-radius: 20px;
+    background-position-x:left;
+    background-position-y:left ;
+    align-self:left;
+ }
+ #dancer2{
+    float:right;
+    height:600px;
+    width: 400px;
+    border: ridge red 10px;
+    border-radius: 20px;
+    background-position-x:right;
+    background-position-y:center;
+    align-self:right;
+ }
+
+#msg{
+    background-position-x:left;
+    background-position-y:left;
+    height:400px;
+    width: 500px;
+    border: ridge red 10px;
+    border-radius: 20px;
+    align-self:center;
+}
